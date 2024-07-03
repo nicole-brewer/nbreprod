@@ -1,0 +1,8 @@
+name: nbreprod
+channels:
+  - fastai
+  - conda-forge
+  - default
+dependencies:
+  - nbdev
+  - jupyterlab
